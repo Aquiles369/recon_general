@@ -10,7 +10,7 @@
 
 ##
 
-### <picture> <img src = "https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNm5uNHl6eW5sMXB6Y25obnRpeG52Mm12dmtkNTk2dGFyYjVyejl0bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/B6zEPouWkkekb8exj3/giphy.gif" width = 75px>  </picture> ༒︎ recon general ༒︎
+### <picture> <img src = "https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXYxYXo2cnQwZnpuMXZtM3FodzE4anc1eGd3NG1lbmdsZGZsYzhoayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JvUKU9HG4qaM2kQDgc/giphy.gif" width = 75px>  </picture> ༒︎ recon general ༒︎
 
 <br>
 
@@ -30,7 +30,7 @@
 <picture> <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width ="1050" > </picture>
 <br>
 
-### <picture> <img src = "https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHg3dThzazNwN2lrYjVscGdwMmRyN2xlb2NrcWJsamUwMXFjbXM5YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/1CoTS8bsIdPaRNS7fs/giphy.gif" width = 80px>  </picture> ༒︎ Informes de bug bounty de recon general ༒︎
+### <picture> <img src = "https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdm90d252ZWdlbHhlOWcyaDJxang5eHV3aXNudnR2bXdhNXdpMWNsdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Bs5HuZNtjL0UHgFBPv/giphy.gif" width = 80px>  </picture> ༒︎ Informes de bug bounty de recon general ༒︎
 
 <br><br>
 
@@ -255,5 +255,5 @@ https://freedium-mirror.cfd/https://infosecwriteups.com/ghost-paytm-xss-bounty-4
 <picture> <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width ="1050" > </picture>
 <br>
 
-### <picture> <img src = "https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3podm1rZ3Y4amU5d3hpdmxucGhydGd3MnF1ZndudzhlenV0eWxkMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/cByts7baForf4uj0eU/giphy.gif" width = 80px>  </picture> “Analizar cientos de técnicas no te da más payloads, te da otra forma de observar aplicaciones.” <img src = "https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3podm1rZ3Y4amU5d3hpdmxucGhydGd3MnF1ZndudzhlenV0eWxkMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/cByts7baForf4uj0eU/giphy.gif" width = 80px>
+### <picture> <img src = "https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmlieW1wZmNoenptenFhbThvNTV4Zm1lODQ1cnRkbmtuMjlzYW5uMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oFzmgLs92TmEDrO6I/giphy.gif" width = 80px>  </picture> “Analizar cientos de técnicas no te da más payloads, te da otra forma de observar aplicaciones.” <img src = "https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmlieW1wZmNoenptenFhbThvNTV4Zm1lODQ1cnRkbmtuMjlzYW5uMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oFzmgLs92TmEDrO6I/giphy.gif" width = 80px>
 <br><picture> <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width ="1050" > </picture>
