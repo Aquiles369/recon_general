@@ -255,6 +255,8 @@ url videos recon:
 ```yam
 http://youtube.com/watch?v=SVfFpVig-nw&t=4470s
 https://www.youtube.com/watch?v=nGs8pWIj5k4
+https://www.youtube.com/watch?v=N_Qyx836Y9s
+https://www.youtube.com/watch?v=-FAjxUOKbdI
 ```
 
 <br>
