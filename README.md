@@ -249,7 +249,13 @@ https://freedium-mirror.cfd/https://infosecwriteups.com/ghost-paytm-xss-bounty-4
 ```
 
 <br>
+<br>
 
+url videos recon: 
+```yam
+http://youtube.com/watch?v=SVfFpVig-nw&t=4470s
+https://www.youtube.com/watch?v=nGs8pWIj5k4
+```
 
 <br>
 <picture> <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width ="1050" > </picture>
